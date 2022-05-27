@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(../imagens/background_prairie_pokemon_screencapture_by_nemotrex_de8nlib-fullview.jpg);
+    background-size: cover;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokedex {
+    display: flex;
+    gap: 30px;
+    /* padding: 10px 0; */
+}
